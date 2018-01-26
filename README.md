@@ -1,4 +1,4 @@
-# Ves Image Slider
+#Ves Image Slider
 
 Fully responsive magento 2 slider extension
 Support editor for inserting image, video text.
@@ -8,6 +8,11 @@ Tons of Animation with Live Preview
 Support 10 sliders
 Easy-to-use & intuitive interface
 
+## 1. Documentation
+
+- Installation guide: https://blog.landofcoder.com/magento-2-install-extension/
+- Download from our Live site: https://landofcoder.com/magento-2-image-slider.html/
+- Get Support: https://landofcoder.ticksy.com/
 
 
 ## 2. How to install Extension
