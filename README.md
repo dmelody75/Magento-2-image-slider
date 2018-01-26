@@ -1,6 +1,6 @@
 # Ves Image Slider
 
-Fully responsive magento 2 slider extension
+Fully responsive [magento 2 slider extension](https://landofcoder.com/magento-2-image-slider.html/)
 Support editor for inserting image, video text.
 Magento 2 Slider Extension supports OWL Carousel
 Image slider can be displayed anywhere in your store with CMS & Widget
