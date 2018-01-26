@@ -1,4 +1,4 @@
-#Ves Image Slider
+# Ves Image Slider
 
 Fully responsive magento 2 slider extension
 Support editor for inserting image, video text.
