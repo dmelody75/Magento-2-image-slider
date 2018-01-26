@@ -32,8 +32,8 @@ Step 6: After opening Stores­ >>Configuration >­>Advanced >­> Advanced, the m
 
 
 
-## 3. What make people fall in love with LOF marketplace extensions
-###Fully responsive Magento 2 Slider Extension
+## 3. What make people fall in love with the extensions
+### Fully responsive Magento 2 Slider Extension
 With our magento 2 image slider widget, you can display your image slider responsively on any kind of devices. 
 
 ### Support editor for image, video text.
